@@ -1,0 +1,8 @@
+C:\Users\Valeria\Desktop\PruebaCSharpJunior\PruebaCSharpJunior\bin\Debug\PruebaCSharpJunior.exe
+C:\Users\Valeria\Desktop\PruebaCSharpJunior\PruebaCSharpJunior\bin\Debug\PruebaCSharpJunior.pdb
+C:\Users\Valeria\Desktop\PruebaCSharpJunior\PruebaCSharpJunior\obj\Debug\PruebaCSharpJunior.csprojResolveAssemblyReference.cache
+C:\Users\Valeria\Desktop\PruebaCSharpJunior\PruebaCSharpJunior\obj\Debug\PruebaCSharpJunior.Form1.resources
+C:\Users\Valeria\Desktop\PruebaCSharpJunior\PruebaCSharpJunior\obj\Debug\PruebaCSharpJunior.Properties.Resources.resources
+C:\Users\Valeria\Desktop\PruebaCSharpJunior\PruebaCSharpJunior\obj\Debug\PruebaCSharpJunior.csproj.GenerateResource.Cache
+C:\Users\Valeria\Desktop\PruebaCSharpJunior\PruebaCSharpJunior\obj\Debug\PruebaCSharpJunior.exe
+C:\Users\Valeria\Desktop\PruebaCSharpJunior\PruebaCSharpJunior\obj\Debug\PruebaCSharpJunior.pdb
